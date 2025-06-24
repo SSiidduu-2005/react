@@ -3,5 +3,5 @@ function Index(){
         <>
         <h2>Main</h2>
         </>
-    )
+    );
 }

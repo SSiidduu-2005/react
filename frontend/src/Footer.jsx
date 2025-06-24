@@ -3,5 +3,5 @@ function Footer(){
         <>
         <h3>Footer</h3>
         </>
-    )
+    );
 }
