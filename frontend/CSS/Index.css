@@ -1,5 +1,8 @@
 body{
    background-color:whitesmoke;
+   margin: 0;
+   padding: 0;
+   overflow-x: hidden;
 }
 .main2{
     border: 2px solid white;

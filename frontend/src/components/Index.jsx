@@ -6,11 +6,11 @@ function Index(){
             <div className='pi'>Popular Cricketers</div> <br />
 
             <div className='img'>
-                <div ><img src="msd.jpg" alt="MSD" width={"390em"} height={"400em"}/>
+                <div ><img src="Hyderabad.jpg" alt="charminar" width={"390em"} height={"400em"}/>
                     <br />
-                    <p>Ms Dhoni (2004-2019)</p>
+                    <p>Charminar</p>
                 </div>
-                <div ><img src="virat.webp" alt="VK" width={"390em"} height={"400em"} />
+                <div ><img src="Hussain-Sagar-lake.webp" alt="VK" width={"390em"} height={"400em"} />
                 <br />
                 <p>V Kohli (2010)</p>
                 </div>
