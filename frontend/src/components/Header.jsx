@@ -23,19 +23,8 @@ function Header(){
             <div className='log'></div>
         </div>
         </div>
-        <br />
-        <br />
-        <div className='main2'>
-            <div className='pi'>Popular Cricketers in India </div> <br />
-
-            <div className='img'>
-                <div ><img src="msd.jpg" alt="Not load" /></div>
-                <div ><img src="virat.webp" alt="Not load" /></div>
-                <div><img src="rohit.jpg" alt="Not load" /></div>
-            </div>
-
-        </div>
         
+        <br /><br /><br /><br />
         </>
     );
 }

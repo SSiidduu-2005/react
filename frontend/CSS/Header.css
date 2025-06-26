@@ -57,18 +57,3 @@ p{
     gap: 30px;
 }
 
-
-.main2{
-    border: 2px solid rgb(187, 178, 178);
-    height: 50em;
-    
-}
-
-.pi{
-    padding: 10px;
-    font-size: large;
-}
-img{
-    display: flex;
-    justify-content: center;
-}

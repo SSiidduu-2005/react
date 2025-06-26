@@ -1,0 +1,36 @@
+body{
+   background-color:whitesmoke;
+}
+.main2{
+    border: 2px solid white;
+    height: 500em;
+    width: 100em;
+    padding: 10px;
+    background-color: white;
+    
+    
+}
+
+.pi{
+   padding: 10px;
+    font-size: large;
+}
+.img{
+    display: flex;
+
+    gap: 14px;
+    padding: 1px;
+    
+}
+.img2{
+    display: flex;
+    
+    padding: 1px;
+    gap: 14px;
+}
+
+.img3{
+    display: flex; 
+    padding: 1px;
+    gap: 14px;
+}
